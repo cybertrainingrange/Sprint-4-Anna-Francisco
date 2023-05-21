@@ -38,7 +38,8 @@ Wireshark has captured all of the ARP packets that are sent by the arp-scan co
 This is a response to one of the ARP requests that asks who has 192.168.0.1.
  
 6. In the packet details pane immediately below the packet table, click the triangle to the left of Address Resolution Protocol to expand the section:
-￼
+[]((<img width="991" alt="!!!!" src="https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/72114214-8634-4879-b008-7d666ad66ea7">))
+
 Wireshark understands the ARP protocol and displays the packet data in an easy to understand format. The data clearly shows the Target IP address and corresponding Target MAC address. The ARP protocol is used for determining the data link layer address (MAC address) of a given IPv4 address.
  
 Summary
