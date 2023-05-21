@@ -24,7 +24,7 @@ The eth0 interface is the ethernet interface for the VM. All network traffic go
 arp-scan --localnet
  
 4. Enter arp in the display filter bar to display on ARP protocol traffic:
-[](![Sprint 4 -](![Screenshot 2023-05-21 at 6 07 10 PM](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/aa3703bf-d420-40b1-9b36-ba48013b48ef))
+[]((![Screenshot 2023-05-21 at 6 07 10 PM](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/aa3703bf-d420-40b1-9b36-ba48013b48ef))
  
 4. Maximize the Wireshark window and scroll to the top of the packet table at the top:
 
