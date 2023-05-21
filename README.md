@@ -51,7 +51,8 @@ Used Wireshark to capture and analyze the traffic of a host. Specifically, you c
 
 
 
-What is Wireshark and why is it important in cybersecurity?
+
+# What is Wireshark and why is it important in cybersecurity?
 
 
 Wireshark is a popular open-source network protocol analyzer. It is used for capturing and analyzing network traffic in real-time. With Wireshark, you can inspect and dissect packets of data flowing over a network, allowing you to gain deep insights into network behavior and troubleshoot network issues. It is widely used in the field of cybersecurity for several reasons:
