@@ -93,7 +93,7 @@ Overall, Wireshark is an essential tool in the field of cybersecurity, providing
 
 ## Youtube Resources 
 
-[Wireshark for beginers](https://www.youtube.com/watch?v=TkCSr30UojM)
+[Wireshark for beginners](https://www.youtube.com/watch?v=TkCSr30UojM)
 
 [Wireshark](https://www.wireshark.org/)
 
