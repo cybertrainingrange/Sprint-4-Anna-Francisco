@@ -2,7 +2,7 @@
 Sprint 4 Wireshark
 # Cyber Range Team Capstone Project Summary - Sprint 4 Anna & Fransico
 
-(https://tkh22-23-fellowship.slack.com/files/U03NB4L7X4M/F057DAKSZ5K/img_1824.png)
+! [](https://tkh22-23-fellowship.slack.com/files/U03NB4L7X4M/F057DAKSZ5K/img_1824.png)
 
 Documentation: Interpreting Live Traffic Analysis with Wireshark
 
