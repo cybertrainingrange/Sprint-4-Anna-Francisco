@@ -17,7 +17,7 @@ The & starts Wireshark in the background so that you can continue to use the ter
 
 2. In the Wireshark window, double-click eth0 from the list of interfaces to select it for analysis:
 
-[](![pic1 -](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/a7525ea8-eef4-41a5-a61f-7181b635444f))
+![](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/a7525ea8-eef4-41a5-a61f-7181b635444f)
 
 The eth0 interface is the ethernet interface for the VM. All network traffic going outside the instance will traverse eth0.
 
