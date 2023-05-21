@@ -28,19 +28,19 @@ arp-scan --localnet
 ![](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/aa3703bf-d420-40b1-9b36-ba48013b48ef)
  
 5. Maximize the Wireshark window and scroll to the top of the packet table at the top:
-[]((![5th pic](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/8f49c64b-4dc3-4630-8cec-7e7996194874))
+![](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/8f49c64b-4dc3-4630-8cec-7e7996194874)
 
 
 Wireshark has captured all of the ARP packets that are sent by the arp-scan command. To discover hosts on the local network, arp-scan sends Who has requests to every IP in the local network address space (192.168.0.0 - 192.168.0.255). The Info column presents summaries of the requests in English. Notice the Destination column says Broadcast for the ARP request. All interfaces on the network receive broadcast requests. This enables host discovery since if there is a host on the network with the requested IP it can respond to the request to identify itself.
 
 6. Scroll through the packets and select the one that says 192.168.0.1 is at... in the Info column:
-[]((![next](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/d8e27419-029e-44d6-bc9c-745c6ae3c2e1))
+![](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/d8e27419-029e-44d6-bc9c-745c6ae3c2e1)
 
 This is a response to one of the ARP requests that asks who has 192.168.0.1.
 
  
 7. In the packet details pane immediately below the packet table, click the triangle to the left of Address Resolution Protocol to expand the section:
-[]((<img width="991" alt="!!!!" src="https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/72114214-8634-4879-b008-7d666ad66ea7">))
+![](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/72114214-8634-4879-b008-7d666ad66ea7">)
 
 Wireshark understands the ARP protocol and displays the packet data in an easy to understand format. The data clearly shows the Target IP address and corresponding Target MAC address. The ARP protocol is used for determining the data link layer address (MAC address) of a given IPv4 address.
  
